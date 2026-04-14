@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bengornchik
 - 👀 I’m interested in coding, video production, mtg and d&d
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning project management and ai
 - 💞️ I’m looking to collaborate on different kinds of pet-projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
